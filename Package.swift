@@ -16,13 +16,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ConvivaBrightcove",
-            url: "https://github.com/Conviva/ConvivaBrightcove/raw/4.0.29/Framework/ConvivaBrightcove/ConvivaBrightcove.xcframework.zip",
-            checksum: "8cbf3e4774763ce6eb187370c3c03b88dad1eccd0fe14052f00e38bf35d75ec9"),
+            url: "https://github.com/Conviva/ConvivaBrightcove/raw/4.0.31/Framework/ConvivaBrightcove/ConvivaBrightcove.xcframework.zip",
+            checksum: "2f5913aae7705285cc47d359879d4b8a57c12f119ca9b7e39e388e416f83e3a8"),
         
         .binaryTarget(
             name: "ConvivaSDK",
-            url: "https://github.com/Conviva/ConvivaSDK/raw/4.0.41/Framework/ConvivaSDK.xcframework.zip",
-            checksum: "484dc78aa819c5878ae807bd10513f7607b8c4a8ab4e94ed4a9ea02baaead878"),
+            url: "https://github.com/Conviva/ConvivaSDK/raw/4.0.43/Framework/ConvivaSDK.xcframework.zip",
+            checksum: "a62100f18feaacb6ea6bbf99d9a50ecf87ed60d605de304bce743d13e2e0cbe0"),
 
         .target(
               name: "ConvivaBrightcoveTarget",
